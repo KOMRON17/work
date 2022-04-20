@@ -6,5 +6,9 @@
 	</head>
 	<body>
 		<h1>Заголовок</h1>
+		<?php
+		echo "Код PHP";
+		
+		?>
 	</body>
 </html>
